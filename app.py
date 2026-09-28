@@ -18,7 +18,7 @@ st.title("Demand Prediction with ARIMA Model")
 # -----------------------------
 # Load data and model
 # -----------------------------
-DATA_FILE = Path(""demand_data - demand_data.csv"")
+DATA_FILE = Path("demand_data - demand_data.csv")
 MODEL_FILE = Path("arima_model.joblib")
 
 try:
