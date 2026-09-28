@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+joblib
+pmdarima==2.1.1
